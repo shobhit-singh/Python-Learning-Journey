@@ -24,6 +24,10 @@ After installation you can check the Python Version using Command Prompt.
 ```python
 print("Hello World!")
 ```
+Image:
+![alt text](https://raw.githubusercontent.com/shobhit-singh/BigDataEnthusiast/master/img/overview.png "Command Prompt")
+
+
 ---
 Thanks!
 
