@@ -8,6 +8,7 @@ Trying to document my Python learning journey. See below posts.
 + Post 03 | Python Number
 + Post 04 | Python String
 + Post 04 | Python Lists
++ Post 06 | Python Dictionary
 
 ---
 Thanks!
