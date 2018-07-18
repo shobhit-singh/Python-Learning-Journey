@@ -9,6 +9,7 @@ Trying to document my Python learning journey. See below posts.
 + Post 04 | Python String
 + Post 05 | Python Lists
 + Post 06 | Python Dictionary
++ Post 07 | Python Tuple
 
 ---
 Thanks!
