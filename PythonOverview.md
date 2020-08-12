@@ -27,7 +27,5 @@ print("Hello World!")
 ![alt text](https://raw.githubusercontent.com/shobhit-singh/BigDataEnthusiast/master/img/overview.png "Command Prompt")
 
 ---
-Thanks!
-
 Happy Learning! Your feedback would be appreciated!
 [shobhitsingh.in](http://shobhitsingh.in/)

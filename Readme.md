@@ -13,4 +13,6 @@ Trying to document my Python learning journey. See below posts.
 
 ---
 Thanks!
+
 Happy Learning! Your feedback would be appreciated!
+[shobhitsingh.in](http://shobhitsingh.in/)
