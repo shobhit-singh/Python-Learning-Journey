@@ -1,7 +1,7 @@
 # Python-Learning-Journey
 ---
 
-Trying to document my Python learning journey. See below posts.
+Trying to document my Python learning journey. See below Jupyter Notebooks & Scripts.
 
 + 01 | [Python Overview](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/PythonOverview.md)
 + 02 | [Python Variables](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/PythonVariables.ipynb)
@@ -10,7 +10,7 @@ Trying to document my Python learning journey. See below posts.
 + 05 | [Python Lists](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/PythonLists.ipynb)
 + 06 | [Python Dictionary](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/PythonDictionary.ipynb)
 + 07 | [Python Tuple](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/PythonTuple.ipynb)
-
++ 08 | [Python Sets](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/PythonSets.ipynb)
 ---
 Thanks!
 
