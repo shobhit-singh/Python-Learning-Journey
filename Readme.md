@@ -11,6 +11,9 @@ Trying to document my Python learning journey. See below Jupyter Notebooks & Scr
 + 06 | [Python Dictionary](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/PythonDictionary.ipynb)
 + 07 | [Python Tuple](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/PythonTuple.ipynb)
 + 08 | [Python Sets](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/PythonSets.ipynb)
++ 09 | [Python IO Files](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/InputOutputFiles.ipynb)
++ 10 | [Python Comparison Operators](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/ComparisonOperators.ipynb)
++ 11 | [Python Statements](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/PythonStatements.ipynb)
 ---
 Thanks!
 
