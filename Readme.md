@@ -14,6 +14,8 @@ Trying to document my Python learning journey. See below Jupyter Notebooks & Scr
 + 09 | [Python IO Files](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/InputOutputFiles.ipynb)
 + 10 | [Python Comparison Operators](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/ComparisonOperators.ipynb)
 + 11 | [Python Statements](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/PythonStatements.ipynb)
++ 12 | [Python Statements](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/IteratorsVsIterables.ipynb)
+
 ---
 Thanks!
 
