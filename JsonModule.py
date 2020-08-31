@@ -48,6 +48,6 @@ my_dict = { 'Aphabets' : { 'A':{'Fruit':'Apple','Object':'Aeroplane'},'B':{'Frui
            
 print(type(my_dict))
 
-json.dump(my_dict, open ('jsonndata.json', 'w'), indent=4)
+json.dump(my_dict, open ('export.json', 'w'), indent=4)
 
 print(json.dumps(my_dict, indent=4))
