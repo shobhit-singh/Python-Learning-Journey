@@ -15,9 +15,10 @@ Trying to document my Python learning journey. See below Jupyter Notebooks & Scr
 + 10 | [Python Comparison Operators](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/ComparisonOperators.ipynb)
 + 11 | [Python Statements](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/PythonStatements.ipynb)
 + 12 | [Iterators Vs Iterables](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/IteratorsVsIterables.ipynb)
-
++ 13 | [JSON Module](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/JsonModule.py)
 ---
 Thanks!
 
 Happy Learning! Your feedback would be appreciated!
 [shobhitsingh.in](http://shobhitsingh.in/)
+[Blogs](https://bigdataenthusiast.wordpress.com/)
