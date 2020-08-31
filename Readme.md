@@ -18,7 +18,7 @@ Trying to document my Python learning journey. See below Jupyter Notebooks & Scr
 + 13 | [JSON Module](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/JsonModule.py)
 ---
 Thanks!
-
-Happy Learning! Your feedback would be appreciated!
-[shobhitsingh.in](http://shobhitsingh.in/)
-[Blogs](https://bigdataenthusiast.wordpress.com/)
+<br>
+Happy Learning! Your feedback would be appreciated! <br>
+[shobhitsingh.in](http://shobhitsingh.in/) <br>
+[Blogs](https://bigdataenthusiast.wordpress.com/) <br>
