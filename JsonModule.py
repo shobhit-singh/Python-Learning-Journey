@@ -39,6 +39,8 @@ my_dict = { 'Aphabets' : { 'A':{'Fruit':'Apple','Object':'Aeroplane'},'B':{'Frui
            } 
            
 print(type(my_dict))
+# Just Print Json data
+print(json.dumps(my_dict, indent=4))
 
 """ ********** Converting Python List to JSON Data & saving it as file ********** """
 
@@ -47,7 +49,7 @@ my_dict = { 'Aphabets' : { 'A':{'Fruit':'Apple','Object':'Aeroplane'},'B':{'Frui
            } 
            
 print(type(my_dict))
-
+# Export the JSON in file
 json.dump(my_dict, open ('export.json', 'w'), indent=4)
 
 print(json.dumps(my_dict, indent=4))
