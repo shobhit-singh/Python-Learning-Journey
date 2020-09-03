@@ -16,6 +16,7 @@ Trying to document my Python learning journey. See below Jupyter Notebooks & Scr
 + 11 | [Python Statements](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/PythonStatements.ipynb)
 + 12 | [Iterators Vs Iterables](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/IteratorsVsIterables.ipynb)
 + 13 | [JSON Module](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/JsonModule.py)
++ 14 | [Built In Functions](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/BuiltInFunctions.ipynb)
 ---
 Thanks!
 <br>
