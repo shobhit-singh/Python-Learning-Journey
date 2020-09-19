@@ -28,4 +28,4 @@ print("Hello World!")
 
 ---
 Happy Learning! Your feedback would be appreciated!
-[shobhitsingh.in](http://shobhitsingh.in/)
+[shobhitsingh.in](https://www.shobhitsingh.in/)
