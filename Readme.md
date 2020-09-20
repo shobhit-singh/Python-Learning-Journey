@@ -14,12 +14,13 @@ Trying to document my Python learning journey. See below Jupyter Notebooks & Scr
 10. [Python Comparison Operators](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/ComparisonOperators.ipynb)
 11. [Python Statements](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/PythonStatements.ipynb) - Control Flow (if-else & loops)
 12. [Iterators Vs Iterables](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/IteratorsVsIterables.ipynb)
-13. [JSON Module](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/JsonModule.py)
-14. [Built In Functions](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/BuiltInFunctions.ipynb)
-15. [List Comprehension](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/PythonListComprehension.ipynb)
+13. [Built In Functions](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/BuiltInFunctions.ipynb)
+14. [List Comprehension](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/PythonListComprehension.ipynb)
 
-#### Other modules
+#### Built-In Modules
++ [JSON Module](https://github.com/shobhit-singh/Python-Learning-Journey/blob/master/JsonModule.py)
 
+#### Other Modules
 + [Pandas](https://github.com/shobhit-singh/Python-Learning-Journey/tree/master/pandas)
 
 ---
